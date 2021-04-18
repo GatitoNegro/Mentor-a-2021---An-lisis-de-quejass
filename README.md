@@ -33,11 +33,11 @@ En total posee 18 variables: <br />
 
 También te invitamos a utilizar datasets complementarios como los siguientes: <br />
 * Population and Housing Unit Estimates <br /> <https://www.census.gov/programs-surveys/popest/data/data-sets.html>
-* Income Data Tables <br />
-* Educational Attainment Tables <br />
+* Income Data Tables <br /> <https://www.census.gov/topics/income-poverty/income/data/tables.html>
+* Educational Attainment Tables <br /> <https://www.census.gov/topics/education/educational-attainment/data/tables.html>
 
 
 ### **Contactos**
-* Amante, Sofía Verónica (mentora) sofiaveronica.93@gmail.com <br />
-* Bocco, Alessio (mentor) boccoalessio@gmail.com <br />
-* Axel Soto (análisis de datos en Zyzygy Inc) - axel.soto@cs.uns.edu.ar <br />
+* Amante, Sofía Verónica (mentora) <sofiaveronica.93@gmail.com> <br />
+* Bocco, Alessio (mentor) <boccoalessio@gmail.com> <br />
+* Axel Soto (análisis de datos en Zyzygy Inc) - <axel.soto@cs.uns.edu.ar> <br />
