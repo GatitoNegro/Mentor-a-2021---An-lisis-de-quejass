@@ -4,39 +4,40 @@ El dataset en cuestión contiene texto con metadatos asociados a quejas de clie
 Este dataset representa un escenario educativo de interés para tareas de aprendizaje automático ya que permitiría: identificar temáticas comunes en las quejas, identificar palabras claves, clasificar sentimientos, visualizar patrones y/o agrupar quejas similares. <br />
 
 Combina distintos tipos de datos desde categóricos y numéricos a fechas y texto detallando el motivo de la queja. Contiene más de dos millones de quejas a más de 5 mil compañías desde el año 2011 a la fecha. 
-
+<br />
 ## **Dataset**
-En el presente repositorio se puede acceder al dataset de quejas a las compañias del sector financiero los EE.UU. Se dispone de una forma conveniente en formato .csv y .json para su adquisición y análisis.
+En el presente repositorio se puede acceder al dataset de quejas a las compañias del sector financiero los EE.UU. Se dispone de una forma conveniente en formato .csv y .json para su adquisición y análisis. <br />
 
 ### **Descripción del archivo**
+<br />
 En total posee 18 variables: <br />
 
 * Date received: Fecha de recepción de la queja <br />
 * Product: Categoría de producto en conflicto.  <br />
-Sub-product: Categoría de subproducto en conflicto.  <br />
-Issue: Categoría de problema. <br />
-Sub-issue:  Categoría de subproblema. <br />
-Consumer complaint narrative: Descripción del problema por parte del consumidor. <br />
-Company public response: Respuesta de la compañía. <br />
-Company: Nombre de la compañía. <br />
-State: Estado (EE.UU) <br />
-ZIP code: Código postal. <br />
-Tags: Características del consumidor. <br />
-Consumer consent provided?Consentimiento por parte del consumidor. (Puede estar incluido en la narrativa). <br />
-Submitted via: Medio por el cual se emitió la queja. <br />
-Date sent to company: Fecha en la que la queja fue recibida por la compañía. <br />
-Company response to consumer: Tipo de respuesta por parte de la compañía. <br />
-Timely response?: Respuesta a tiempo por parte de la compañía. <br />
-Consumer disputed?: Consumidor disputó la respuesta. <br />
-Complaint ID: Identificador de la queja. <br />
+* Sub-product: Categoría de subproducto en conflicto.  <br />
+* Issue: Categoría de problema. <br />
+* Sub-issue:  Categoría de subproblema. <br />
+* Consumer complaint narrative: Descripción del problema por parte del consumidor. <br />
+* Company public response: Respuesta de la compañía. <br />
+* Company: Nombre de la compañía. <br />
+* State: Estado (EE.UU) <br />
+* ZIP code: Código postal. <br />
+* Tags: Características del consumidor. <br />
+* Consumer consent provided?Consentimiento por parte del consumidor. (Puede estar incluido en la narrativa). <br />
+* Submitted via: Medio por el cual se emitió la queja. <br />
+* Date sent to company: Fecha en la que la queja fue recibida por la compañía. <br />
+* Company response to consumer: Tipo de respuesta por parte de la compañía. <br />
+* Timely response?: Respuesta a tiempo por parte de la compañía. <br />
+* Consumer disputed?: Consumidor disputó la respuesta. <br />
+* Complaint ID: Identificador de la queja. <br />
 
 También te invitamos a utilizar datasets complementarios como los siguientes: <br />
-Population and Housing Unit Estimates <br />
-Income Data Tables <br />
-Educational Attainment Tables <br />
+* Population and Housing Unit Estimates <br />
+* Income Data Tables <br />
+* Educational Attainment Tables <br />
 
 
 ### **Contactos**
-Amante, Sofía Verónica (mentora) sofiaveronica.93@gmail.com <br />
-Bocco, Alessio (mentor) boccoalessio@gmail.com <br />
-Axel Soto (análisis de datos en Zyzygy Inc) - axel.soto@cs.uns.edu.ar <br />
+* Amante, Sofía Verónica (mentora) sofiaveronica.93@gmail.com <br />
+* Bocco, Alessio (mentor) boccoalessio@gmail.com <br />
+* Axel Soto (análisis de datos en Zyzygy Inc) - axel.soto@cs.uns.edu.ar <br />
