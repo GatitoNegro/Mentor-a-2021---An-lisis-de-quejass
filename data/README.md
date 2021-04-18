@@ -6,6 +6,3 @@ Para descargar los datos originales que utilizaremos en los prácticos pueden ut
 Links a datos:
 * https://files.consumerfinance.gov/ccdb/complaints.csv.zip (CSV)
 * https://files.consumerfinance.gov/ccdb/complaints.json.zip (JSON)
-* https://www.consumerfinance.gov/data-research/consumer-complaints/ (Introducción)
-* https://www.consumerfinance.gov/data-research/consumer-complaints/search/ (interface
-de búsqueda y esquema de meta-datos)
