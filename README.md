@@ -9,13 +9,13 @@ Combina distintos tipos de datos desde categóricos y numéricos a fechas y text
 En el presente repositorio se puede acceder al dataset de quejas a las compañias del sector financiero los EE.UU. Se dispone de una forma conveniente en formato .csv y .json para su adquisición y análisis.
 
 ### **Descripción del archivo**
-En total posee 18 variables:
+En total posee 18 variables: <br />
 
-Date received: Fecha de recepción de la queja
-Product: Categoría de producto en conflicto. 
-Sub-product: Categoría de subproducto en conflicto. 
-Issue: Categoría de problema. 
-Sub-issue:  Categoría de subproblema. 
+Date received: Fecha de recepción de la queja <br />
+Product: Categoría de producto en conflicto.  <br />
+Sub-product: Categoría de subproducto en conflicto.  <br />
+Issue: Categoría de problema. <br />
+Sub-issue:  Categoría de subproblema. <br />
 Consumer complaint narrative: Descripción del problema por parte del consumidor. 
 Company public response: Respuesta de la compañía.
 Company: Nombre de la compañía. 
