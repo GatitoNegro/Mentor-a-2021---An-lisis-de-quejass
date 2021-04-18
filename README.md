@@ -11,8 +11,8 @@ En el presente repositorio se puede acceder al dataset de quejas a las compañia
 ### **Descripción del archivo**
 En total posee 18 variables: <br />
 
-Date received: Fecha de recepción de la queja <br />
-Product: Categoría de producto en conflicto.  <br />
+* Date received: Fecha de recepción de la queja <br />
+* Product: Categoría de producto en conflicto.  <br />
 Sub-product: Categoría de subproducto en conflicto.  <br />
 Issue: Categoría de problema. <br />
 Sub-issue:  Categoría de subproblema. <br />
