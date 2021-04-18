@@ -5,8 +5,9 @@ Este dataset representa un escenario educativo de interés para tareas de apren
 Combina distintos tipos de datos desde categóricos y numéricos a fechas y texto detallando el motivo de la queja. Contiene más de dos millones de quejas a más de 5 mil compañías desde el año 2011 a la fecha. 
 <br />
 ## **Dataset**
-En el presente repositorio,en la seccion "data" se puede acceder al dataset de quejas a las compañias del sector financiero los EE.UU. Se dispone de una forma conveniente en formato .csv y .json para su adquisición y análisis. <br />
-Ademas invitamos a indagar sobre los siguientes links, con iformacion a tener en cuenta al usar el dataset: <br />
+En el presente repositorio, en la seccion "data", se puede acceder al dataset de quejas a las compañias del sector financiero los EE.UU provisto por la Oficina para la Protección Financiera del Consumidor de los Estados Unidos (CFPB, por sus siglas en inglés), agencia federal gubernamental responsable de la regulación de protección al consumidor. <br />
+Se dispone de una forma conveniente en formato .csv y .json para su adquisición y análisis. <br />
+Ademas invitamos a indagar sobre los siguientes links, con informacion a tener en cuenta al usar el dataset: <br />
 * https://www.consumerfinance.gov/data-research/consumer-complaints/ (Introducción)
 * https://www.consumerfinance.gov/data-research/consumer-complaints/search/ (interface
 de búsqueda y esquema de meta-datos)
